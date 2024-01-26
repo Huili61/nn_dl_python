@@ -1,3 +1,9 @@
+Project:
+https://github.com/NBISweden/workshop-neural-nets-and-deep-learning/tree/master/session_annBuildingBlocks/lab_keras
+
+How to prepare environment in windows
+https://uppsala.instructure.com/courses/93000/pages/what-you-as-student-need-to-do-before-the-course-starts
+
 1. On Windows 10, install the WSL if you don’t have it. Follow the instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10Links to an external site.
 install wsl in win10
 https://learn.microsoft.com/en-us/windows/wsl/install
