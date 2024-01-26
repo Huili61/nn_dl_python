@@ -1,18 +1,17 @@
-## Project:
+## Project: Neural Nets and Deep Learning
 
-Github:
+[**Github Project**](https://github.com/NBISweden/workshop-neural-nets-and-deep-learning/tree/master/session_annBuildingBlocks/lab_keras)
 
-https://github.com/NBISweden/workshop-neural-nets-and-deep-learning/tree/master/session_annBuildingBlocks/lab_keras
+[**Documents**](https://uppsala.instructure.com/courses/93000/pages/what-you-as-student-need-to-do-before-the-course-starts)
 
-Documents:
-
-https://uppsala.instructure.com/courses/93000/pages/what-you-as-student-need-to-do-before-the-course-starts
 
 ### 1. Install wsl in windows
 
 #### 1.1 wsl install
 
-On Windows 10, install the WSL if you don’t have it. Follow the instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10Links to an external site.
+On Windows 10, install the WSL if you don’t have it. Follow the instructions here: 
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 https://learn.microsoft.com/en-us/windows/wsl/install
 
@@ -32,7 +31,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 ### 2. MobaXterm
 
-#### 2.1
+#### 2.1 Install
 Download and install MobaXterm (which is the enhanced terminal with graphical capacity): https://mobaxterm.mobatek.netLinks to an external site.
 
 It is recommended that you INSTALL the program and not use the portable version.
@@ -51,7 +50,7 @@ Start or restart the SSH service
 
  while the further steps are optional, but might be useful.
 
-### 3. install conda
+### 3. Install conda in liunx
   
 download:
 ```shell
@@ -70,7 +69,7 @@ conda init
 conda install -n base -c conda-forge mamba
 ```
 
-### 4. graphical packages for RStudio
+### 4. Graphical packages for RStudio
 
 Inside MobaXterm terminal, type the commands below to install the X-server graphical packages that will be used to launch RStudio. 
 
