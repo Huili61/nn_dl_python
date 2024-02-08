@@ -23,7 +23,7 @@ wsl --install
 
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
 
-以管理员身份打开 windows PowerShell 并运行：
+Open PowerShell as Administrator and run:
 
 ```shell
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
