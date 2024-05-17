@@ -156,3 +156,4 @@ def airlines():
     df['year'] = pd.DatetimeIndex(df['time']).year
     df['month'] = pd.DatetimeIndex(df['time']).month
     return df
+
