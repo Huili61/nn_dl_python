@@ -144,7 +144,6 @@ dmypy.json
 tests/tmp/
 
 docs/jupyter_execute
-.ipynb_checkpoints
 *.ipynb_checkpoints
 .vscode/launch.json
 *.Zone.Identifier
