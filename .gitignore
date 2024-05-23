@@ -76,6 +76,9 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb_checkpoints
+docs/jupyter_execute
+*.Zone.Identifier
 
 # IPython
 profile_default/
@@ -140,11 +143,8 @@ dmypy.json
 
 # MacOS
 .DS_Store
-.vscode/settings.json
-tests/tmp/
 
-docs/jupyter_execute
-*.ipynb_checkpoints
+# vscode
+.vscode/settings.json
 .vscode/launch.json
-*.Zone.Identifier
 
